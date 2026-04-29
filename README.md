@@ -1,1 +1,1 @@
-# javaspecialist-samples
+# java-specialist-samples
