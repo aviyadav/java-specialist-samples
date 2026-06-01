@@ -1,4 +1,4 @@
-Small Maven-based Java samples that explore list performance and array resizing behavior.
+# Small Maven-based Java samples that explore list performance and array resizing behavior.
 
 https://www.javaspecialists.eu/archive/Issue335-ZGC-Mysteries.html
 
