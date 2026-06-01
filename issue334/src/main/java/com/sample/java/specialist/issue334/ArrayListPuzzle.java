@@ -1,7 +1,7 @@
-package com.sample.arraylist.linkedlist.puzzle;
+package com.sample.java.specialist.issue334;
 
 public class ArrayListPuzzle extends ListPuzzle {
-    void main() {
+    public void main() {
         run(java.util.ArrayList::new);
     }
 }
